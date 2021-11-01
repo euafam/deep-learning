@@ -71,6 +71,8 @@
 - https://github.com/sebastianruder/NLP-progress
 - https://github.com/hankcs/HanLP
 
+- https://github.com/clara-parabricks/GenomeWorks
+
 
 ### android
 
@@ -80,11 +82,13 @@
 - https://github.com/jeasonlzy/okhttp-OkGo
 - https://github.com/square/okhttp
 
-https://github.com/google/guava
+- https://github.com/google/guava
 
 
 
 ### IOS
+
+- https://github.com/rspeyer/soundtouch
 
 
 ### Vue&JS
@@ -119,8 +123,8 @@ https://github.com/google/guava
 - https://github.com/danistefanovic/build-your-own-x
 - https://github.com/hello-java-maker/JavaInterview
 
-https://github.com/shishan100/Java-Interview-Advanced
-https://github.com/hollischuang/toBeTopJavaer
+- https://github.com/shishan100/Java-Interview-Advanced
+- https://github.com/hollischuang/toBeTopJavaer
 
 
 - https://github.com/CaptainDjy/Programmer-skill-training-program
