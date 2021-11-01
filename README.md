@@ -55,6 +55,8 @@
 
 ### how to sur
 
+- https://github.com/haoel/haoel.github.io
+
 - https://github.com/unicodeveloper/awesome-opensource-apps
 - https://github.com/Hack-with-Github/Awesome-Hacking
 - https://github.com/shadowsocks/ShadowsocksX-NG
@@ -310,6 +312,9 @@
 - https://github.com/PacktPublishing/Building-Machine-Learning-Projects-with-TensorFlow
 - https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 
+- https://github.com/yizhen20133868/NLP-Conferences-Code
+- https://github.com/sebastianruder/NLP-progress
+
 ### android
 
 - https://github.com/CameloeAnthony/Perfect_IM_SNS 这是一个整理即时通讯（IM）和社交系统（SNS）优秀开源项目的文档，项目上传github欢迎提交更新。
@@ -443,11 +448,17 @@
 
 - https://github.com/ljz756245026/jianzhi-offer-code-videos
 
+- https://github.com/yuanguangxin/LeetCode
+- https://github.com/halfrost/LeetCode-Go
+- https://github.com/haoel/leetcode
+
 ### design pattern 
 
 - https://github.com/donnemartin/system-design-primer
 
 ### How to learn
+
+- https://github.com/CaptainDjy/Programmer-skill-training-program
 
 - https://github.com/firstcomdigital/Google-Interview-University
 
