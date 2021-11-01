@@ -119,7 +119,8 @@
 
 - https://github.com/linlinjava/litemall
 
-- https://github.com/ecjia/ecjia-daojiaEC+（ecjia）到家是一款可开展O2O业务的移动电商系统。它包含：移动端APP，采用原生模式开发，覆盖使用iOS 及Android系统的移 动终端；后台系统，针对平台日常运营维护的平台后台，针对入驻店铺管理的商家后台，独立并行；移动端H5，能够灵活部署于微信及其他APP、网页
+- https://github.com/ecjia/ecjia-daojiaEC+（ecjia）
+- 到家是一款可开展O2O业务的移动电商系统。它包含：移动端APP，采用原生模式开发，覆盖使用iOS 及Android系统的移 动终端；后台系统，针对平台日常运营维护的平台后台，针对入驻店铺管理的商家后台，独立并行；移动端H5，能够灵活部署于微信及其他APP、网页
 
 
 ### Video&Audio
