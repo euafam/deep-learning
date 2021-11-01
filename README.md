@@ -127,6 +127,9 @@
 - https://github.com/Yuagilvy/DeepNudeCLI
 - https://github.com/stacklikemind/deepnude_official
 
+-https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
+- https://github.com/YunYang1994/tensorflow-yolov3
+
 ### android
 
 - https://github.com/CameloeAnthony/Perfect_IM_SNS 这是一个整理即时通讯（IM）和社交系统（SNS）优秀开源项目的文档，项目上传github欢迎提交更新。
@@ -188,6 +191,7 @@
 - https://github.com/KeKe-Li/kubernetes-tutorial
 - https://github.com/talkgo/night
 - https://github.com/yinwenqin/kubeSourceCodeNote
+- https://github.com/liuyi01/kubernetes-starter
 
 ### data strucure&algorithm
 
@@ -227,3 +231,6 @@
 - https://github.com/izackwu/TeachYourselfCS-CN
 - https://github.com/doocs/advanced-java
 - https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System
+
+
+- https://github.com/jeffgerickson/algorithms
