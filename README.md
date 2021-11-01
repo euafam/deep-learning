@@ -177,6 +177,10 @@
 - https://github.com/szad670401/HyperLPR
 - https://github.com/liuruoze/EasyPR
 - https://github.com/openalpr/openalpr
+- https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9
+- https://github.com/luanfujun/deep-photo-styletransfer
+- https://github.com/magenta/magenta
+- https://github.com/facebookresearch/MUSE
 
 ### android
 
