@@ -1,4 +1,9 @@
 
+- https://github.com/torvalds/linux
+
+
+
+
 - https://github.com/diaspora/diaspora
 - https://github.com/signalapp/Signal-Android
 - https://github.com/rozdoum/social-app-android
@@ -338,6 +343,9 @@
 
 - https://github.com/zxing/zxing barcode scanning
 
+- https://github.com/qii/weiciyuan
+- https://github.com/pockethub/PocketHub
+
 
 ### IOS
 
@@ -365,6 +373,7 @@
 - https://github.com/zhaoolee/ChromeAppHeroe
 
 - https://github.com/videojs/video.js
+- https://github.com/mochajs/mocha
 
 ### DevOps
 
@@ -440,4 +449,6 @@
 
 - https://github.com/jwasham/coding-interview-university
 
-https://github.com/donnemartin/interactive-coding-challenges
+- https://github.com/freeCodeCamp/freeCodeCamp
+
+- https://github.com/donnemartin/interactive-coding-challenges
