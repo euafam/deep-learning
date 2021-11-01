@@ -181,6 +181,13 @@
 - https://github.com/luanfujun/deep-photo-styletransfer
 - https://github.com/magenta/magenta
 - https://github.com/facebookresearch/MUSE
+- https://github.com/XifengGuo/CapsNet-Keras
+- https://github.com/jadore801120/attention-is-all-you-need-pytorch
+- https://github.com/harvardnlp/seq2seq-attn
+- https://github.com/Alex-AI-Du/Tensorflow-Tutorial
+- https://github.com/xitu/tensorflow-docs
+- https://github.com/pymc-devs/pymc
+- https://github.com/cbrownley/foundations-for-analytics-with-python
 
 ### android
 
