@@ -163,6 +163,12 @@
 
 - https://github.com/Ylisen/dailyfresh-B2C
 
+- https://github.com/derek-zhang123/MxOnline
+- https://github.com/zaxlct/imooc-django
+- https://github.com/sshwsfc/xadmin
+- https://github.com/mtianyan/OnlineMooc
+- Vue前台 + Django3.1 + DjangoRestful Framework + Ant Design Pro V4后台 开发的在线教育网站及后台管理
+
 
 ### Video&Audio
 
