@@ -34,6 +34,7 @@
 - https://github.com/google/lyra
 - https://github.com/jdpxiaoming/PPlayer
 - https://github.com/pili-engineering/PLDroidShortVideo
+- https://github.com/ossrs/srs
 
 
 
@@ -48,6 +49,13 @@
 
 - https://github.com/ZoeShaw101/spring-boot-seckill
 - https://github.com/forezp/SpringCloudLearning
+- https://github.com/xkcoding/spring-boot-demo
+
+- https://github.com/lerry903/RuoYi
+- https://github.com/ityouknow/spring-boot-examples
+- https://github.com/wuyouzhuguli/SpringAll
+- https://github.com/dyc87112/SpringBoot-Learning
+- https://github.com/JeffLi1993/springboot-learning-example
 
 
 ### Programming lanuage
@@ -72,6 +80,7 @@
 - https://github.com/jeasonlzy/okhttp-OkGo
 - https://github.com/square/okhttp
 
+https://github.com/google/guava
 
 
 
@@ -109,6 +118,9 @@
 - https://github.com/lookroot/WeeklyHub
 - https://github.com/danistefanovic/build-your-own-x
 - https://github.com/hello-java-maker/JavaInterview
+
+https://github.com/shishan100/Java-Interview-Advanced
+https://github.com/hollischuang/toBeTopJavaer
 
 
 - https://github.com/CaptainDjy/Programmer-skill-training-program
