@@ -173,6 +173,10 @@
 - https://github.com/davidsandberg/facenet
 - https://github.com/RiweiChen/DeepFace
 - https://github.com/hzy46/Deep-Learning-21-Examples
+- https://github.com/rcmalli/keras-vggface
+- https://github.com/szad670401/HyperLPR
+- https://github.com/liuruoze/EasyPR
+- https://github.com/openalpr/openalpr
 
 ### android
 
