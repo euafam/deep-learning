@@ -122,6 +122,9 @@
 
 - https://github.com/ethereum/wiki
 - https://github.com/ethereumbook/ethereumbook
+- https://github.com/litecore-archive/litecore-litecoin
+- https://github.com/litecoin-project/litecoin
+- https://github.com/EOSIO/eos
 - 
 
 
@@ -167,6 +170,9 @@
 - https://github.com/cs230-stanford/cs230-code-examples
 - https://github.com/KeKe-Li/tutorial
 - https://github.com/scutan90/DeepLearning-500-questions
+- https://github.com/davidsandberg/facenet
+- https://github.com/RiweiChen/DeepFace
+- https://github.com/hzy46/Deep-Learning-21-Examples
 
 ### android
 
