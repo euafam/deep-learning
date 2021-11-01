@@ -122,6 +122,15 @@
 - https://github.com/ecjia/ecjia-daojiaEC+（ecjia）
 - 到家是一款可开展O2O业务的移动电商系统。它包含：移动端APP，采用原生模式开发，覆盖使用iOS 及Android系统的移 动终端；后台系统，针对平台日常运营维护的平台后台，针对入驻店铺管理的商家后台，独立并行；移动端H5，能够灵活部署于微信及其他APP、网页
 
+- https://github.com/tyronczt/imooc-o2o
+- SSM到Spring Boot从零开发校园商铺平台
+
+- https://github.com/newbee-ltd/newbee-mall-manage
+- https://github.com/newbee-ltd/newbee-mall-api
+- https://github.com/newbee-ltd/newbee-mall-vue-app
+- https://github.com/newbee-ltd/newbee-mall
+- newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面…
+
 
 ### Video&Audio
 
@@ -172,6 +181,8 @@
 
 - https://github.com/jukanntenn/django-blog-tutorial
 - https://github.com/uranusjr/django-tutorial-for-programmers
+
+- https://github.com/ZHENFENG13/spring-boot-projects
 
 
 ### Programming lanuage
