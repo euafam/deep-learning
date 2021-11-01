@@ -136,6 +136,26 @@
 - https://github.com/newbee-ltd/newbee-mall
 - newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面…
 
+- https://github.com/git-canye/foodshop
+- vue全家桶 外卖app
+
+- https://github.com/liyaopinner/mxonline_resources
+- https://github.com/liyaopinner/mxshop_sources
+- https://github.com/derek-zhang123/MxShop
+-
+- https://github.com/10086XIAOZHANG/CpWebSourcePlatform
+- https://github.com/10086XIAOZHANG/CpBlogApp
+- https://github.com/10086XIAOZHANG/CP-WEB-NODE-PlATFORM
+
+- https://github.com/mahmoud/awesome-python-applications
+
+
+- https://github.com/QingdaoU/OnlineJudge
+- 青岛大学开源 Online Judge
+
+- https://github.com/mtianyan/VueDjangoAntdProBookShop
+- Vue前台 + Django3.1 + DjangoRestful Framework + Ant Design Pro V4 开发的二手书商城网站及后台管理
+
 
 ### Video&Audio
 
@@ -429,6 +449,8 @@
 - https://github.com/videojs/video.js
 - https://github.com/mochajs/mocha
 - https://github.com/ElemeFE/vue-amap  于 Vue 2.x 和高德地图的地图组件
+
+- https://github.com/bailicangdu/vue2-elm
 
 ### DevOps
 
