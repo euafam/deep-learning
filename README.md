@@ -7,6 +7,14 @@
 
 - https://github.com/httpie/httpie
 
+- https://github.com/public-apis/public-apis
+
+- https://github.com/ytdl-org/youtube-dl
+
+- https://github.com/mitchtabian/Android-Instagram-Clone
+- https://github.com/saitoxu/InstaClone
+- https://github.com/relatedcode/RelatedChat
+
 
 ### how to sur
 
@@ -125,6 +133,7 @@
 - https://github.com/sobolevn/awesome-cryptography
 - https://github.com/fluentpython/example-code
 
+- https://github.com/vinta/awesome-python
 
 ## Bitcoin
 
@@ -245,6 +254,18 @@
 - https://github.com/matterport/Mask_RCNN
 - https://github.com/chiphuyen/stanford-tensorflow-tutorials
 
+- https://github.com/lisa-lab/DeepLearningTutorials
+- https://github.com/ujjwalkarn/Machine-Learning-Tutorials
+- https://github.com/terryum/awesome-deep-learning-papers
+- https://github.com/ZuzooVn/machine-learning-for-software-engineers
+- https://github.com/Avik-Jain/100-Days-Of-ML-Code
+- https://github.com/taki0112/StarGAN-Tensorflow
+- https://github.com/zhangqianhui/AdversarialNetsPapers
+- https://github.com/tensorflow/models
+
+- https://github.com/Embedding/Chinese-Word-Vectors
+- https://github.com/PacktPublishing/Building-Machine-Learning-Projects-with-TensorFlow
+
 ### android
 
 - https://github.com/CameloeAnthony/Perfect_IM_SNS 这是一个整理即时通讯（IM）和社交系统（SNS）优秀开源项目的文档，项目上传github欢迎提交更新。
@@ -281,6 +302,8 @@
 
 - https://github.com/taifuer/Android_Learning
 
+- https://github.com/AppLozic/Applozic-Android-SDK
+
 
 ### IOS
 
@@ -314,6 +337,7 @@
 ### interview
 
 - https://github.com/kdn251/interviews
+- https://github.com/CyC2018/CS-Notes
 
 ### data strucure&algorithm
 
