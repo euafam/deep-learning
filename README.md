@@ -3,6 +3,9 @@
 
 - https://github.com/tiimgreen/github-cheat-sheet
 
+- https://github.com/buckket/twtxt
+- https://github.com/misskey-dev/misskey
+
 
 
 
@@ -110,6 +113,8 @@
 
 
 ### Video&Audio
+
+- https://github.com/google/lyra
 
 - https://github.com/google/lyra
 - https://github.com/jdpxiaoming/PPlayer
@@ -393,6 +398,7 @@
 
 - https://github.com/videojs/video.js
 - https://github.com/mochajs/mocha
+- https://github.com/ElemeFE/vue-amap  于 Vue 2.x 和高德地图的地图组件
 
 ### DevOps
 
@@ -436,6 +442,8 @@
 ### How to learn
 
 - https://github.com/firstcomdigital/Google-Interview-University
+
+- https://github.com/sdmg15/Best-websites-a-programmer-should-visit 
 
 - https://github.com/nusr/hacker-laws-zh
 - https://github.com/dwmkerr/hacker-laws
