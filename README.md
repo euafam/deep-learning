@@ -417,6 +417,8 @@
 
 - https://github.com/kdn251/interviews
 - https://github.com/CyC2018/CS-Notes
+- https://github.com/hello-java-maker/JavaInterview 
+- Java面试+Java后端技术学习指南】：一份通向理想互联网公司的面试指南，包括 Java，技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、分布式、数据库（MySQL、Redis）、Java 项目实战等
 
 ### data strucure&algorithm
 
@@ -438,6 +440,8 @@
 - https://github.com/shichao-an/examples_unix
 
 - https://github.com/kangjianwei/Data-Structure
+
+- https://github.com/ljz756245026/jianzhi-offer-code-videos
 
 ### design pattern 
 
@@ -487,3 +491,5 @@
 
 - https://github.com/sindresorhus/awesome
 - https://github.com/EbookFoundation/free-programming-books
+
+- https://github.com/mwand/eopl3
