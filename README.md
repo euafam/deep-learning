@@ -107,6 +107,9 @@
 - https://github.com/macrozheng/mall
 - https://github.com/zhangxd1989/spring-boot-cloud
 
+- https://github.com/jukanntenn/django-blog-tutorial
+- https://github.com/uranusjr/django-tutorial-for-programmers
+
 
 ### Programming lanuage
 
@@ -188,6 +191,28 @@
 - https://github.com/xitu/tensorflow-docs
 - https://github.com/pymc-devs/pymc
 - https://github.com/cbrownley/foundations-for-analytics-with-python
+- https://github.com/pybrain/pybrain
+- https://github.com/shogun-toolbox/shogun
+- https://github.com/biolab/orange3
+
+- https://github.com/RaRe-Technologies/gensim
+- https://github.com/nilearn/nilearn
+- https://github.com/google/dopamine
+- https://github.com/deepmind/trfl
+- https://github.com/Tencent/tencent-ml-images
+
+- https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition
+- https://github.com/sjchoi86/Tensorflow-101
+- https://github.com/instillai/TensorFlow-Course
+- https://github.com/yoyoyohamapi/mit-ml
+- https://github.com/lucasshenv/Coursera-ML-AndrewNg
+- https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
+
+- https://github.com/open-mmlab/mmdetection
+- https://github.com/lbeaucourt/Object-detection
+- https://github.com/kuleshov/teaching-material
+- https://github.com/amueller/introduction_to_ml_with_python
+- https://github.com/REMitchell/python-scraping
 
 ### android
 
@@ -305,3 +330,7 @@
 - https://github.com/jeffgerickson/algorithms
 
 - https://github.com/Trietptm-on-Coding-Algorithms/HowToBeAProgrammer.pdf
+
+- https://github.com/jwasham/coding-interview-university
+
+https://github.com/donnemartin/interactive-coding-challenges
