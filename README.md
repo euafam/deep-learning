@@ -6,6 +6,9 @@
 - https://github.com/shadowsocks/v2ray-plugin
 - https://github.com/DataDog/datadog-agent
 - https://github.com/v2ray/v2ray-core
+- https://github.com/gruhn/awesome-naming
+- https://github.com/justinamiller/EnterpriseArchitecture
+- https://github.com/521xueweihan/HelloGitHub
 
 
 
@@ -38,6 +41,10 @@
 - https://github.com/hashicorp/terraform
 - https://github.com/tinygo-org/tinygo
 - https://github.com/golang/groupcache
+
+- https://github.com/halo-dev/halo
+- https://github.com/LuckyZXL2016/Movie_Recommend
+- https://github.com/LuckyZXL2016/News_Spark
 
 
 ### Video&Audio
@@ -78,6 +85,9 @@
 - https://github.com/leelovejava/cloud2020
 - https://github.com/zzyybs/atguigu_spirngcloud2020
 
+- https://github.com/macrozheng/mall
+- https://github.com/zhangxd1989/spring-boot-cloud
+
 
 ### Programming lanuage
 
@@ -96,6 +106,10 @@
 - https://github.com/clara-parabricks/GenomeWorks
 - https://github.com/seetaface/SeetaFaceEngine
 - https://github.com/JohnSnowLabs/spark-nlp
+
+- https://github.com/menzi11/BullshitGenerator
+- https://github.com/iqiyi/FASPell
+- https://github.com/hoya012/deep_learning_object_detection
 
 
 ### android
@@ -136,6 +150,8 @@
 - https://github.com/haoel/leetcode
 - https://github.com/spring2go/Algorithms
 - https://github.com/greyireland/algorithm-pattern
+- https://github.com/MisterBooo/LeetCodeAnimation
+- https://github.com/azl397985856/leetcode
 
 
 
@@ -154,3 +170,13 @@
 
 
 - https://github.com/CaptainDjy/Programmer-skill-training-program
+
+- https://github.com/jobbole/awesome-programming-books
+- https://github.com/justjavac/free-programming-books-zh_CN
+- https://github.com/chai2010/advanced-go-programming-book
+
+- https://github.com/Snailclimb/JavaGuide
+
+- https://github.com/izackwu/TeachYourselfCS-CN
+- https://github.com/doocs/advanced-java
+- https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System
