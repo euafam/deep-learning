@@ -7,6 +7,7 @@
 ### how to sur
 
 - https://github.com/unicodeveloper/awesome-opensource-apps
+- https://github.com/Hack-with-Github/Awesome-Hacking
 
 - https://github.com/haoel/haoel.github.io
 - https://github.com/shadowsocks/v2ray-plugin
@@ -114,9 +115,19 @@
 - https://github.com/akka/akka
 - https://github.com/jobbole/awesome-python-cn
 - https://github.com/sobolevn/awesome-cryptography
+- https://github.com/fluentpython/example-code
+
+
+## Bitcoin
+
+- https://github.com/ethereum/wiki
+- https://github.com/ethereumbook/ethereumbook
+- 
 
 
 ### deep-learning
+
+- https://github.com/edyoda/data-science-complete-tutorial
 
 - https://github.com/yizhen20133868/NLP-Conferences-Code
 - https://github.com/sebastianruder/NLP-progress
@@ -150,6 +161,12 @@
 - https://github.com/trekhleb/homemade-machine-learning
 - https://github.com/deepfakes/faceswap
 - https://github.com/octiapp/KerasPersonLab
+
+- https://github.com/xiaohu2015/DeepLearning_tutorials
+- https://github.com/yusugomori/DeepLearning
+- https://github.com/cs230-stanford/cs230-code-examples
+- https://github.com/KeKe-Li/tutorial
+- https://github.com/scutan90/DeepLearning-500-questions
 
 ### android
 
@@ -231,6 +248,10 @@
 
 - https://github.com/maomao9003/Introduction-to-Algorithms
 
+- https://github.com/TheAlgorithms/Python
+- https://github.com/yourtion/LearningMasteringAlgorithms-C
+- https://github.com/shichao-an/examples_unix
+
 ### How to learn
 
 - https://github.com/firstcomdigital/Google-Interview-University
@@ -261,3 +282,5 @@
 
 
 - https://github.com/jeffgerickson/algorithms
+
+- https://github.com/Trietptm-on-Coding-Algorithms/HowToBeAProgrammer.pdf
