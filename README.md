@@ -7,6 +7,11 @@
 
 - https://github.com/danistefanovic/build-your-own-x
 
+### Social 
+
+- https://github.com/CameloeAnthony/Perfect_IM_SNS
+- 这是一个整理即时通讯（IM）和社交系统（SNS）优秀开源项目的文档，项目上传github欢迎提交更新
+
 - https://github.com/buckket/twtxt
 - https://github.com/misskey-dev/misskey
 
@@ -520,3 +525,5 @@
 - https://github.com/EbookFoundation/free-programming-books
 
 - https://github.com/mwand/eopl3
+
+- https://github.com/huzecong/oi-slides
