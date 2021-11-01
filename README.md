@@ -365,6 +365,12 @@
 
 - https://github.com/CrazyPeter/DanmukuMaster-iOS
 - https://github.com/unash/BarrageRenderer
+- https://github.com/gimenete/iOS-boilerplate
+- https://github.com/escoz/QuickDialog
+- https://github.com/schneiderandre/popping
+- https://github.com/CanvasPod/Canvas
+- https://github.com/robbiehanson/CocoaAsyncSocket
+- https://github.com/BradLarson/GPUImage
 
 ### Vue&JS
 
