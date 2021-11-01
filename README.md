@@ -29,6 +29,15 @@
 
 - https://github.com/tgalal/yowsup
 
+- https://github.com/cambecc/earth
+- https://github.com/thoughtbot/Tropos
+- https://github.com/YouXianMing/YoCelsius
+
+
+- https://github.com/dsxNiubility/SXNews
+- https://github.com/HuTianQi/CoolWeather
+- https://github.com/tony-green/coolweather
+
 
 ### how to sur
 
@@ -100,6 +109,10 @@
 - https://github.com/pili-engineering/PLDroidShortVideo
 - https://github.com/ossrs/srs
 - https://github.com/begeekmyfriend/yasea RTMP live streaming client for Android
+- https://github.com/youtube/api-samples
+- https://github.com/chrippa/livestreamer
+- https://github.com/bilibili/FFmpeg
+- https://github.com/bilibili/flv.js
 
 ### SQL
 
@@ -279,6 +292,7 @@
 
 - https://github.com/Embedding/Chinese-Word-Vectors
 - https://github.com/PacktPublishing/Building-Machine-Learning-Projects-with-TensorFlow
+- https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 
 ### android
 
@@ -318,6 +332,12 @@
 
 - https://github.com/AppLozic/Applozic-Android-SDK
 
+- https://github.com/smartyuge/LivePlayback
+- https://github.com/smartyuge/TVSample
+- https://github.com/bilibili/DanmakuFlameMaster
+
+- https://github.com/zxing/zxing barcode scanning
+
 
 ### IOS
 
@@ -333,11 +353,18 @@
 - https://github.com/CoderMJLee/MJRefresh
 - https://github.com/relatedcode/Messenger
 
+- https://github.com/mwaterfall/MWPhotoBrowser
+
+- https://github.com/CrazyPeter/DanmukuMaster-iOS
+- https://github.com/unash/BarrageRenderer
+
 ### Vue&JS
 
 - https://github.com/ElemeFE/vue-amap
 
 - https://github.com/zhaoolee/ChromeAppHeroe
+
+- https://github.com/videojs/video.js
 
 ### DevOps
 
