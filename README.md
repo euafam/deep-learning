@@ -24,11 +24,16 @@
 - https://github.com/EZLippi/Tinyhttpd
 
 - https://github.com/DaveGamble/cJSON
+- https://github.com/roncoo/roncoo-pay
+- https://github.com/thinkgem/jeesite
+- https://github.com/agalwood/Motrix
 
 
 ### Video&Audio
 
 - https://github.com/google/lyra
+- https://github.com/jdpxiaoming/PPlayer
+- https://github.com/pili-engineering/PLDroidShortVideo
 
 
 
@@ -36,7 +41,19 @@
 
 - https://github.com/ZHENFENG13/spring-boot-projects
 - https://github.com/hansonwang99/Spring-Boot-In-Action
-- https://github.com/sqshq/piggymetrics Microservice Architecture with Spring Boot, Spring Cloud and Docke
+- https://github.com/sqshq/piggymetrics Microservice Architecture with Spring Boot, Spring Cloud and Docker
+
+- https://github.com/2014shijina2014/open-capacity-platform
+- https://github.com/wxiaoqi/Spring-Cloud-Platform
+
+- https://github.com/ZoeShaw101/spring-boot-seckill
+- https://github.com/forezp/SpringCloudLearning
+
+
+### Programming lanuage
+
+- https://github.com/dromara/hutool
+- https://github.com/alibaba/arthas
 
 
 
@@ -49,6 +66,12 @@
 
 ### android
 
+- https://github.com/antoniolg/androidmvp
+- https://github.com/XXApple/AndroidLibs
+- https://github.com/open-android/Android
+- https://github.com/jeasonlzy/okhttp-OkGo
+- https://github.com/square/okhttp
+
 
 
 
@@ -58,6 +81,8 @@
 ### Vue&JS
 
 - https://github.com/ElemeFE/vue-amap
+
+- https://github.com/zhaoolee/ChromeAppHeroes
 
 
 
@@ -72,6 +97,8 @@
 - https://github.com/yuanguangxin/LeetCode
 - https://github.com/halfrost/LeetCode-Go
 - https://github.com/haoel/leetcode
+- https://github.com/spring2go/Algorithms
+- https://github.com/greyireland/algorithm-pattern
 
 
 
