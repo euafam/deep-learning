@@ -76,6 +76,7 @@
 ### SQL
 
 - https://github.com/github/gh-ost
+- https://github.com/sqlmapproject/sqlmap
 
 ### Spring
 
@@ -145,6 +146,10 @@
 - https://github.com/horance-liu/tensorflow-internals
 
 - https://github.com/fengdu78/lihang-code
+- https://github.com/Jack-Cherish/Machine-Learning
+- https://github.com/trekhleb/homemade-machine-learning
+- https://github.com/deepfakes/faceswap
+- https://github.com/octiapp/KerasPersonLab
 
 ### android
 
@@ -179,6 +184,8 @@
 - https://github.com/touchstonejs/touchstonejs
 - https://github.com/huntermr/FastAndroid
 - https://github.com/Frank-Zhu/AppCodeArchitecture
+
+- https://github.com/taifuer/Android_Learning
 
 
 ### IOS
