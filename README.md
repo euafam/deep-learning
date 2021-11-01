@@ -8,6 +8,7 @@
 
 - https://github.com/unicodeveloper/awesome-opensource-apps
 - https://github.com/Hack-with-Github/Awesome-Hacking
+- https://github.com/shadowsocks/ShadowsocksX-NG
 
 - https://github.com/haoel/haoel.github.io
 - https://github.com/shadowsocks/v2ray-plugin
@@ -213,6 +214,22 @@
 - https://github.com/kuleshov/teaching-material
 - https://github.com/amueller/introduction_to_ml_with_python
 - https://github.com/REMitchell/python-scraping
+- https://github.com/higgsfield/Capsule-Network-Tutorial
+- https://github.com/naturomics/CapsNet-Tensorflow
+- https://github.com/soumith/ganhacks
+- https://github.com/eriklindernoren/Keras-GAN
+- https://github.com/yunjey/stargan
+- https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers
+- https://github.com/dennybritz/deeplearning-papernotes
+- https://github.com/karpathy/char-rnn
+- https://github.com/yunjey/pytorch-tutorial
+- https://github.com/xiaqunfeng/machine-learning-yearning
+- https://github.com/Leezhen2014/TensorFlow-for-Machine-Intelligence
+- https://github.com/rnjailamba/tf-notebooks
+- https://github.com/backstopmedia/tensorflowbook
+- https://github.com/aymericdamien/TensorFlow-Examples
+- https://github.com/keras-team/keras
+- https://github.com/PacktPublishing/Machine-Learning-Algorithms
 
 ### android
 
@@ -297,6 +314,8 @@
 - https://github.com/TheAlgorithms/Python
 - https://github.com/yourtion/LearningMasteringAlgorithms-C
 - https://github.com/shichao-an/examples_unix
+
+- https://github.com/kangjianwei/Data-Structure
 
 ### How to learn
 
