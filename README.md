@@ -3,6 +3,8 @@
 - https://github.com/signalapp/Signal-Android
 - https://github.com/rozdoum/social-app-android
 
+- https://github.com/zulip/zulip
+
 - https://github.com/httpie/httpie
 
 
@@ -237,6 +239,12 @@
 - https://github.com/openai/gym
 - https://github.com/HelloZeroNet/ZeroNet
 
+- https://github.com/GenTang/intro_ds
+- https://github.com/junyanz/CycleGAN
+- https://github.com/exacity/deeplearningbook-chinese
+- https://github.com/matterport/Mask_RCNN
+- https://github.com/chiphuyen/stanford-tensorflow-tutorials
+
 ### android
 
 - https://github.com/CameloeAnthony/Perfect_IM_SNS 这是一个整理即时通讯（IM）和社交系统（SNS）优秀开源项目的文档，项目上传github欢迎提交更新。
@@ -301,6 +309,11 @@
 - https://github.com/talkgo/night
 - https://github.com/yinwenqin/kubeSourceCodeNote
 - https://github.com/liuyi01/kubernetes-starter
+
+
+### interview
+
+- https://github.com/kdn251/interviews
 
 ### data strucure&algorithm
 
