@@ -61,6 +61,9 @@
 
 - https://github.com/wsvincent/awesome-django
 
+- https://github.com/anacrolix/torrent
+- https://github.com/qbittorrent/qBittorrent
+
 
 ### Video&Audio
 
@@ -108,6 +111,8 @@
 - https://github.com/dromara/hutool
 - https://github.com/alibaba/arthas
 - https://github.com/akka/akka
+- https://github.com/jobbole/awesome-python-cn
+- https://github.com/sobolevn/awesome-cryptography
 
 
 ### deep-learning
@@ -127,8 +132,19 @@
 - https://github.com/Yuagilvy/DeepNudeCLI
 - https://github.com/stacklikemind/deepnude_official
 
--https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
+- https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
 - https://github.com/YunYang1994/tensorflow-yolov3
+- https://github.com/deepmind/sonnet
+- https://github.com/lengstrom/fast-style-transfer
+- https://github.com/google-research/bert
+- https://github.com/huggingface/transformers
+- https://github.com/openai/spinningup
+
+- https://github.com/EOSIO/Documentation
+
+- https://github.com/horance-liu/tensorflow-internals
+
+- https://github.com/fengdu78/lihang-code
 
 ### android
 
@@ -203,6 +219,10 @@
 - https://github.com/greyireland/algorithm-pattern
 - https://github.com/MisterBooo/LeetCodeAnimation
 - https://github.com/azl397985856/leetcode
+- https://github.com/tangweikun/awesome-leetcode
+- https://github.com/Blankj/awesome-java-leetcode
+
+- https://github.com/maomao9003/Introduction-to-Algorithms
 
 ### How to learn
 
