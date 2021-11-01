@@ -15,6 +15,9 @@
 - https://github.com/buckket/twtxt
 - https://github.com/misskey-dev/misskey
 
+- https://github.com/Asutosh11/CollegeClassifieds
+- This is a college classifieds android app
+
 
 
 
@@ -156,6 +159,10 @@
 - https://github.com/mtianyan/VueDjangoAntdProBookShop
 - Vue前台 + Django3.1 + DjangoRestful Framework + Ant Design Pro V4 开发的二手书商城网站及后台管理
 
+- https://github.com/gtalarico/django-vue-template
+
+- https://github.com/Ylisen/dailyfresh-B2C
+
 
 ### Video&Audio
 
@@ -170,6 +177,9 @@
 - https://github.com/chrippa/livestreamer
 - https://github.com/bilibili/FFmpeg
 - https://github.com/bilibili/flv.js
+
+- https://github.com/ChinaArJun/Tencent-NOW
+- https://github.com/whenSunSet/FFmpeg-learning
 
 ### SQL
 
@@ -451,6 +461,7 @@
 - https://github.com/ElemeFE/vue-amap  于 Vue 2.x 和高德地图的地图组件
 
 - https://github.com/bailicangdu/vue2-elm
+- https://github.com/sunseekers/Vue2
 
 ### DevOps
 
