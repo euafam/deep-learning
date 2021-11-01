@@ -3,6 +3,8 @@
 - https://github.com/signalapp/Signal-Android
 - https://github.com/rozdoum/social-app-android
 
+- https://github.com/httpie/httpie
+
 
 ### how to sur
 
@@ -231,6 +233,10 @@
 - https://github.com/keras-team/keras
 - https://github.com/PacktPublishing/Machine-Learning-Algorithms
 
+- https://github.com/ageitgey/face_recognition
+- https://github.com/openai/gym
+- https://github.com/HelloZeroNet/ZeroNet
+
 ### android
 
 - https://github.com/CameloeAnthony/Perfect_IM_SNS 这是一个整理即时通讯（IM）和社交系统（SNS）优秀开源项目的文档，项目上传github欢迎提交更新。
@@ -316,6 +322,10 @@
 - https://github.com/shichao-an/examples_unix
 
 - https://github.com/kangjianwei/Data-Structure
+
+### design pattern 
+
+- https://github.com/donnemartin/system-design-primer
 
 ### How to learn
 
