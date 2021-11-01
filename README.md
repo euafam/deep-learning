@@ -17,6 +17,8 @@
 
 - https://github.com/Asutosh11/CollegeClassifieds
 - This is a college classifieds android app
+- https://github.com/tgalal/yowsup
+- The WhatsApp lib
 
 
 
@@ -186,6 +188,9 @@
 
 - https://github.com/ChinaArJun/Tencent-NOW
 - https://github.com/whenSunSet/FFmpeg-learning
+
+- https://github.com/lybenson/bilibili-vue
+- 前端vue+后端koa，全栈式开发bilibili首页
 
 ### SQL
 
@@ -372,6 +377,9 @@
 - https://github.com/yizhen20133868/NLP-Conferences-Code
 - https://github.com/sebastianruder/NLP-progress
 
+- https://github.com/matterport/Mask_RCNN
+- https://github.com/chiphuyen/stanford-tensorflow-tutorials
+
 ### android
 
 - https://github.com/CameloeAnthony/Perfect_IM_SNS 这是一个整理即时通讯（IM）和社交系统（SNS）优秀开源项目的文档，项目上传github欢迎提交更新。
@@ -456,6 +464,8 @@
 - https://github.com/jverkoey/nimbus
 - https://github.com/cocos2d/cocos2d-x
 
+- https://github.com/BradLarson/GPUImage
+
 ### Vue&JS
 
 - https://github.com/ElemeFE/vue-amap
@@ -468,6 +478,22 @@
 
 - https://github.com/bailicangdu/vue2-elm
 - https://github.com/sunseekers/Vue2
+
+- https://github.com/reactnativecn/react-native-guide
+React Native指南汇集了各类react-native学习资源、开源App和组件
+
+- https://github.com/discountry/react
+- React docs in Chinese | React 中文文档
+
+- https://github.com/duxianwei520/react
+- React+webpack+redux+ant design+axios+less全家桶后台管理框
+
+- https://github.com/JedWatson/react-select
+
+- https://github.com/ruanyf/react-demos
+
+- https://github.com/kriasoft/react-starter-kit
+- React Starter Kit — front-end starter kit using React, Relay, GraphQL, and JAM stack architecture
 
 ### DevOps
 
@@ -515,6 +541,7 @@
 ### design pattern 
 
 - https://github.com/donnemartin/system-design-primer
+- https://github.com/liu-jianhao/Cpp-Design-Patterns
 
 ### How to learn
 
