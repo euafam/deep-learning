@@ -3,6 +3,9 @@
 ### how to sur
 
 - https://github.com/haoel/haoel.github.io
+- https://github.com/shadowsocks/v2ray-plugin
+- https://github.com/DataDog/datadog-agent
+- https://github.com/v2ray/v2ray-core
 
 
 
@@ -33,6 +36,8 @@
 - https://github.com/Solido/awesome-flutter
 
 - https://github.com/hashicorp/terraform
+- https://github.com/tinygo-org/tinygo
+- https://github.com/golang/groupcache
 
 
 ### Video&Audio
@@ -41,6 +46,10 @@
 - https://github.com/jdpxiaoming/PPlayer
 - https://github.com/pili-engineering/PLDroidShortVideo
 - https://github.com/ossrs/srs
+
+### SQL
+
+- https://github.com/github/gh-ost
 
 
 
@@ -74,6 +83,7 @@
 
 - https://github.com/dromara/hutool
 - https://github.com/alibaba/arthas
+- https://github.com/akka/akka
 
 
 
@@ -85,6 +95,7 @@
 
 - https://github.com/clara-parabricks/GenomeWorks
 - https://github.com/seetaface/SeetaFaceEngine
+- https://github.com/JohnSnowLabs/spark-nlp
 
 
 ### android
@@ -130,6 +141,8 @@
 
 ### How to learn
 
+- https://github.com/nusr/hacker-laws-zh
+- https://github.com/dwmkerr/hacker-laws
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 - https://github.com/mwand/eopl3  Essentials of Programming Languages
 - https://github.com/lookroot/WeeklyHub
