@@ -20,6 +20,14 @@
 - https://github.com/tgalal/yowsup
 - The WhatsApp lib
 
+- https://github.com/lovely1016/tensquare
+- https://github.com/Traeric/TenSquare
+- https://github.com/lipengzhou/shicifang-api
+- https://github.com/DreamMakerYang/tensquare
+- 十次方后台项目前端vueAdmin-template-master（已完成初始化）
+- https://github.com/selierlin/TenSquare
+- 十次方社交平台源码及笔记
+
 
 
 
@@ -170,6 +178,9 @@
 - https://github.com/sshwsfc/xadmin
 - https://github.com/mtianyan/OnlineMooc
 - Vue前台 + Django3.1 + DjangoRestful Framework + Ant Design Pro V4后台 开发的在线教育网站及后台管理
+
+- https://github.com/LuckyZXL2016/e3mall
+- 宜立方商城，完整代码 + 资源，java + spring + springmvc + mybatis 实现
 
 
 ### Video&Audio
@@ -510,6 +521,8 @@ React Native指南汇集了各类react-native学习资源、开源App和组件
 - https://github.com/CyC2018/CS-Notes
 - https://github.com/hello-java-maker/JavaInterview 
 - Java面试+Java后端技术学习指南】：一份通向理想互联网公司的面试指南，包括 Java，技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、分布式、数据库（MySQL、Redis）、Java 项目实战等
+- https://github.com/huzecong/oi-slides
+- 我的信息学竞赛讲课课件
 
 ### data strucure&algorithm
 
