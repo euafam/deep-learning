@@ -28,6 +28,12 @@
 - https://github.com/thinkgem/jeesite
 - https://github.com/agalwood/Motrix
 
+- https://github.com/duytq94/flutter-chat-demo
+- https://github.com/fluttercandies/wechat_flutter
+- https://github.com/Solido/awesome-flutter
+
+- https://github.com/hashicorp/terraform
+
 
 ### Video&Audio
 
@@ -57,6 +63,12 @@
 - https://github.com/dyc87112/SpringBoot-Learning
 - https://github.com/JeffLi1993/springboot-learning-example
 
+- https://github.com/SimonHu1993/simonhu1993.github.com
+- https://github.com/paocaia/cloud2020
+- https://github.com/Jiaru0314/cloud2020
+- https://github.com/leelovejava/cloud2020
+- https://github.com/zzyybs/atguigu_spirngcloud2020
+
 
 ### Programming lanuage
 
@@ -72,6 +84,7 @@
 - https://github.com/hankcs/HanLP
 
 - https://github.com/clara-parabricks/GenomeWorks
+- https://github.com/seetaface/SeetaFaceEngine
 
 
 ### android
