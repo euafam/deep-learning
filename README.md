@@ -1,4 +1,8 @@
 
+- https://github.com/diaspora/diaspora
+- https://github.com/signalapp/Signal-Android
+- https://github.com/rozdoum/social-app-android
+
 
 ### how to sur
 
@@ -121,9 +125,17 @@
 - https://github.com/hoya012/deep_learning_object_detection
 
 - https://github.com/Yuagilvy/DeepNudeCLI
-
+- https://github.com/stacklikemind/deepnude_official
 
 ### android
+
+- https://github.com/CameloeAnthony/Perfect_IM_SNS 这是一个整理即时通讯（IM）和社交系统（SNS）优秀开源项目的文档，项目上传github欢迎提交更新。
+- https://github.com/rogerou/Baby  一个私密社交APP,采用Dagger2+Rxjava+LeanCloud+环信+MVP+Tinker进行开发。
+- https://github.com/google/material-design-icons
+- https://github.com/android/testing-samples
+- https://github.com/android/architecture-components-samples
+- https://github.com/android/architecture-samples
+- https://github.com/theDazzler/droidicon Over 1600 customizable icons for Android including 750+ Google Material Design icons
 
 - https://github.com/antoniolg/androidmvp
 - https://github.com/XXApple/AndroidLibs
@@ -142,6 +154,13 @@
 - https://github.com/ZonCon/Ecommerce-Retronight-Android
 - https://github.com/hiteshsahu/ECommerce-App-Android
 
+- https://github.com/aqi00/net_server <<Android Studio开发实战：从零基础到App上线>>的服务端程序
+- https://github.com/aqi00/android2  《Android Studio开发实战：从零基础到App上线》随书源码（全面添加注释版
+
+- https://github.com/touchstonejs/touchstonejs
+- https://github.com/huntermr/FastAndroid
+- https://github.com/Frank-Zhu/AppCodeArchitecture
+
 
 ### IOS
 
@@ -155,6 +174,7 @@
 - https://github.com/zhouhuanqiang/LearningIOS
 - https://github.com/CoderMJLee/MJExtension
 - https://github.com/CoderMJLee/MJRefresh
+- https://github.com/relatedcode/Messenger
 
 ### Vue&JS
 
@@ -162,15 +182,12 @@
 
 - https://github.com/zhaoolee/ChromeAppHeroe
 
-
-
 ### DevOps
 
 - https://github.com/daniel-hutao/k8s-source-code-analysis
 - https://github.com/KeKe-Li/kubernetes-tutorial
 - https://github.com/talkgo/night
-
-
+- https://github.com/yinwenqin/kubeSourceCodeNote
 
 ### data strucure&algorithm
 
@@ -183,9 +200,9 @@
 - https://github.com/MisterBooo/LeetCodeAnimation
 - https://github.com/azl397985856/leetcode
 
-
-
 ### How to learn
+
+- https://github.com/firstcomdigital/Google-Interview-University
 
 - https://github.com/nusr/hacker-laws-zh
 - https://github.com/dwmkerr/hacker-laws
