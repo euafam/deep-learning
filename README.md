@@ -2,6 +2,8 @@
 
 ### how to sur
 
+- https://github.com/unicodeveloper/awesome-opensource-apps
+
 - https://github.com/haoel/haoel.github.io
 - https://github.com/shadowsocks/v2ray-plugin
 - https://github.com/DataDog/datadog-agent
@@ -9,8 +11,9 @@
 - https://github.com/gruhn/awesome-naming
 - https://github.com/justinamiller/EnterpriseArchitecture
 - https://github.com/521xueweihan/HelloGitHub
+- https://github.com/hq450/fancyss_history_package
 
-
+- https://github.com/github/gitignore
 
 ### Project
 
@@ -46,6 +49,14 @@
 - https://github.com/LuckyZXL2016/Movie_Recommend
 - https://github.com/LuckyZXL2016/News_Spark
 
+- https://github.com/osclass/Osclass
+
+- https://github.com/codingforentrepreneurs/eCommerce
+- https://github.com/saebyn/django-classifieds
+- https://github.com/mitchtabian/ForSale  Android classified applications using ElasticSearch
+
+- https://github.com/wsvincent/awesome-django
+
 
 ### Video&Audio
 
@@ -53,12 +64,11 @@
 - https://github.com/jdpxiaoming/PPlayer
 - https://github.com/pili-engineering/PLDroidShortVideo
 - https://github.com/ossrs/srs
+- https://github.com/begeekmyfriend/yasea RTMP live streaming client for Android
 
 ### SQL
 
 - https://github.com/github/gh-ost
-
-
 
 ### Spring
 
@@ -96,7 +106,6 @@
 - https://github.com/akka/akka
 
 
-
 ### deep-learning
 
 - https://github.com/yizhen20133868/NLP-Conferences-Code
@@ -111,6 +120,8 @@
 - https://github.com/iqiyi/FASPell
 - https://github.com/hoya012/deep_learning_object_detection
 
+- https://github.com/Yuagilvy/DeepNudeCLI
+
 
 ### android
 
@@ -121,24 +132,43 @@
 - https://github.com/square/okhttp
 
 - https://github.com/google/guava
+- https://github.com/kesenhoo/android-training-course-in-chinese
 
+- https://github.com/pcqpcq/open-source-android-apps
+- https://github.com/DickyQie/android-shoppingcart
+- https://github.com/javaexception/ShoppingCart
+- https://github.com/thesabareesh/protrip  An Android app to discover a city's nearby hotels, restaurants and Shopping places.
+- https://github.com/dilyar85/ShopPlains
+- https://github.com/ZonCon/Ecommerce-Retronight-Android
+- https://github.com/hiteshsahu/ECommerce-App-Android
 
 
 ### IOS
 
 - https://github.com/rspeyer/soundtouch
+- https://github.com/ipader/SwiftGuide
 
+- https://github.com/ChenYilong/iOSInterviewQuestions
+- https://github.com/Aufree/trip-to-iOS
+- https://github.com/Mantle/Mantle
+- https://github.com/jsonmodel/jsonmodel
+- https://github.com/zhouhuanqiang/LearningIOS
+- https://github.com/CoderMJLee/MJExtension
+- https://github.com/CoderMJLee/MJRefresh
 
 ### Vue&JS
 
 - https://github.com/ElemeFE/vue-amap
 
-- https://github.com/zhaoolee/ChromeAppHeroes
-
+- https://github.com/zhaoolee/ChromeAppHeroe
 
 
 
 ### DevOps
+
+- https://github.com/daniel-hutao/k8s-source-code-analysis
+- https://github.com/KeKe-Li/kubernetes-tutorial
+- https://github.com/talkgo/night
 
 
 
