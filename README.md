@@ -1,6 +1,8 @@
 
 - https://github.com/torvalds/linux
 
+- https://github.com/tiimgreen/github-cheat-sheet
+
 
 
 
@@ -346,6 +348,12 @@
 - https://github.com/qii/weiciyuan
 - https://github.com/pockethub/PocketHub
 
+- https://github.com/francistao/LearningNotes
+- https://github.com/JackyAndroid/AndroidInterview-Q-A
+- https://github.com/Freelander/Android_Data
+- https://github.com/wasabeef/awesome-android-ui
+- https://github.com/Trinea/android-open-project
+
 
 ### IOS
 
@@ -371,6 +379,11 @@
 - https://github.com/CanvasPod/Canvas
 - https://github.com/robbiehanson/CocoaAsyncSocket
 - https://github.com/BradLarson/GPUImage
+- https://github.com/SDWebImage/SDWebImage
+- https://github.com/RestKit/RestKit
+- https://github.com/facebookarchive/three20
+- https://github.com/jverkoey/nimbus
+- https://github.com/cocos2d/cocos2d-x
 
 ### Vue&JS
 
@@ -458,3 +471,7 @@
 - https://github.com/freeCodeCamp/freeCodeCamp
 
 - https://github.com/donnemartin/interactive-coding-challenges
+
+
+- https://github.com/sindresorhus/awesome
+- https://github.com/EbookFoundation/free-programming-books
