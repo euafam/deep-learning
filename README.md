@@ -14,6 +14,20 @@
 - https://github.com/mitchtabian/Android-Instagram-Clone
 - https://github.com/saitoxu/InstaClone
 - https://github.com/relatedcode/RelatedChat
+- https://github.com/eappel/VidClips
+- https://github.com/hillfly/WifiChat
+- https://github.com/Pirngruber/AndroidIM
+- https://github.com/jitsi/jitsi
+
+- https://github.com/vole/vole
+- https://github.com/leancloud/ChatKit-OC
+
+- https://github.com/coursera-dl/coursera-dl
+- https://github.com/xhzengAIB/MessageDisplayKit
+
+- https://github.com/rockerhieu/emojicon
+
+- https://github.com/tgalal/yowsup
 
 
 ### how to sur
